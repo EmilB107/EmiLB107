@@ -1,4 +1,4 @@
-# Hi, I'm John Emil (Emil) 👋
+# 👋
 
 CS student at PUP finishing up in 2026. I've been doing frontend work — building UIs, fixing bugs, and shipping features. Lately working with Next.js, Riot.js, and Django; also done stuff with Vue, Laravel, and C#.
 
