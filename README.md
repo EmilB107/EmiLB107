@@ -21,3 +21,4 @@ CS student at PUP finishing up in 2026. I've been doing frontend work — buildi
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EmilB107&theme=default&hide_border=true)](https://git.io/streak-stats)
+> this is just for personal ref lol don't mind it
