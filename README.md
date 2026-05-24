@@ -2,7 +2,7 @@
 
 CS student at PUP finishing up in 2026. I've been doing frontend work — building UIs, fixing bugs, and shipping features. Lately working with Next.js, Riot.js, and Django; also done stuff with Vue, Laravel, and C#.
 
-🌐 **Portfolio** → [john-emil-bragais-portfolio.vercel.app](https://john-emil-bragais-portfolio.vercel.app/)
+🌐 **Portfolio** → [John Emil I. Bragais — Portfolio](https://john-emil-bragais-portfolio.vercel.app/)
 
 📄 **Resume** → [John Emil I. Bragais — Resume](https://john-emil-bragais-resume.vercel.app/)
 
