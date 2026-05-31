@@ -29,8 +29,3 @@ CS student at PUP finishing up in 2026. I've been doing frontend work — buildi
 ![Scrum / Agile](https://img.shields.io/badge/-Scrum%20%2F%20Agile-6DB33F?style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmilB107&theme=default&hide_border=true)](https://git.io/streak-stats)
-> this is just for personal ref lol don't mind it
